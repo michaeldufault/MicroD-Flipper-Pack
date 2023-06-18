@@ -1,5 +1,5 @@
 # MicroD-Flipper-Pack
-A collection of [Flipper Zero](https://github.com/flipperdevices) assets for chipmusic artist [MicroD](https://microdmusic.com/)<br/>
+A collection of [Flipper Zero](https://github.com/flipperdevices) assets from chipmusic artist [MicroD](https://microdmusic.com/)<br/>
 - [MicroD Logo Animation](#microd-logo-animation)
 - [Rebound by MicroD for Flipper Music Player](#rebound-by-microd-for-flipper-music-player)
 - [Rebound by MicroD for Flipper Wav Player](#rebound-by-microd-for-flipper-wav-player)
@@ -30,4 +30,3 @@ The full track *Rebound by MicroD* formatted for playback using the Flipper `Wav
 <img width="431" alt="image" src="https://github.com/michaeldufault/MicroD-Flipper-Pack/assets/72285408/9832c5e8-0e01-4fc4-9491-dc1a2fe2e568"><br/><br/>
 Install by placing `MicroD_Rebound.wav` in your Flipper's `ext/wav_player/` folder.
 > Note: At the time of writing, the Wav Player application is only available via custom firmware.
-
