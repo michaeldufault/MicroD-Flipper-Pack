@@ -1,7 +1,7 @@
 # MicroD-Flipper-Pack
 A collection of [Flipper Zero](https://github.com/flipperdevices) assets from chipmusic artist [MicroD](https://microdmusic.com/)
 
-- [MicroD D's Quest Animation](#microd-dsquest-animation)
+- [MicroD D's Quest Animation](#microd-ds-quest-animation)
 - [MicroD Logo Animation](#microd-logo-animation)
 - [Rebound by MicroD for Flipper Music Player](#rebound-by-microd-for-flipper-music-player)
 - [Rebound by MicroD for Flipper Wav Player](#rebound-by-microd-for-flipper-wav-player)
