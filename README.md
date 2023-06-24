@@ -1,19 +1,41 @@
 # MicroD-Flipper-Pack
 A collection of [Flipper Zero](https://github.com/flipperdevices) assets from chipmusic artist [MicroD](https://microdmusic.com/)
 
+- [MicroD D's Quest Animation](#microd-dsquest-animation)
 - [MicroD Logo Animation](#microd-logo-animation)
 - [Rebound by MicroD for Flipper Music Player](#rebound-by-microd-for-flipper-music-player)
 - [Rebound by MicroD for Flipper Wav Player](#rebound-by-microd-for-flipper-wav-player)
   
 - - -
 
-## MicroD Logo Animation
+## MicroD D's Quest Animation
 
-An animation for the Flipper which displays the MicroD logo on a static TV/CRT-style screen with passive and active animation loops. H/T [@Talking-Sasquatch](https://github.com/skizzophrenic/Talking-Sasquach) for his guides on the topic.
+An animation for the Flipper which displays a variation on the [D's Quest](https://distrokid.com/hyperfollow/microd/Zn5) album artwork, including a 90s style computer startup active animation loop. H/T [@Talking-Sasquatch](https://github.com/skizzophrenic/Talking-Sasquach) for his guides on the topic.
 
 https://github.com/michaeldufault/MicroD-Flipper-Pack/assets/72285408/e7951bc8-a254-4c1f-ac49-07952ad8e8d0
 
-Install by placing the entire `MicroD_Logo_Animation` folder in `ext/dolphin/` and adding it to the `manifest.txt` file.
+Install by placing the entire `MicroD_DsQuest_128x64` folder in `ext/dolphin/` and adding an entry for it to your `manifest.txt` file.
+
+For the `manifest.txt` file I recommend appending the following code:
+
+```
+Name: MicroD_DsQuest_128x64
+Min butthurt: 0
+Max butthurt: 13
+Min level: 1
+Max level: 30
+Weight: 5
+```
+
+- - -
+
+## MicroD Logo Animation
+
+An animation for the Flipper which displays the MicroD logo on a static TV/CRT-style screen with passive and active animation loops.
+
+https://github.com/michaeldufault/MicroD-Flipper-Pack/assets/72285408/e7951bc8-a254-4c1f-ac49-07952ad8e8d0
+
+Install by placing the entire `MicroD_Logo_128x64` folder in `ext/dolphin/` and adding an entry for it to your `manifest.txt` file.
 
 For the `manifest.txt` file I recommend appending the following code:
 
