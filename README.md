@@ -12,7 +12,7 @@ A collection of [Flipper Zero](https://github.com/flipperdevices) assets from ch
 
 An animation for the Flipper which displays a variation on the [D's Quest](https://distrokid.com/hyperfollow/microd/Zn5) album artwork, including a 90s style computer startup active animation loop. H/T [@Talking-Sasquatch](https://github.com/skizzophrenic/Talking-Sasquach) for his guides on the topic.
 
-https://github.com/michaeldufault/MicroD-Flipper-Pack/assets/72285408/e7951bc8-a254-4c1f-ac49-07952ad8e8d0
+https://github.com/michaeldufault/MicroD-Flipper-Pack/assets/72285408/cbb70ca2-52d0-440a-ae10-55e680127238
 
 Install by placing the entire `MicroD_DsQuest_128x64` folder in `ext/dolphin/` and adding an entry for it to your `manifest.txt` file.
 
